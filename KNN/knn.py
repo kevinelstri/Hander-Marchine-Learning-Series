@@ -2,6 +2,12 @@ import numpy as np
 import math
 from collections import Counter
 
+'''
+Author:kevinelstri
+Date:2021/04/25
+Desc:手撕机器学习系列
+'''
+
 
 # 读取数据
 def load_data(filename):
