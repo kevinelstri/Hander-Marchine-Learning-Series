@@ -3,6 +3,12 @@
 import math
 import random
 
+'''
+Author:kevinelstri
+Date:2021/04/22
+Desc:手撕机器学习系列
+'''
+
 
 # 读取数据
 def load_data(filename):
